@@ -1,0 +1,41 @@
+
+#A Amazonia pertence a qual pais?#Argentina#Canada#Russia#Brasil#4#a
+#Qual desses paises nao e Europeu?#Espanha#Grecia#Cazaquistao#Polonia#3#a
+#Qual desses paises nao e africano?#Egito#Madagascar#Arabia Saudita#Africa do sul#3#a
+#Qual a capital do Mexico?#Cidade do Mexico#Espanho#Del Mexico#Mexicali#1#a
+#BRIC e uma sigla que se refere a:#Brasil, Russia, Inglaterra e China#Belgica, Russia, Italia e China#Bulgaria, Russia, Indonesia e China#Brasil, Russia, India e China#4#a
+#Dos paises citados, qual nao esta incluido na lista das 10 maiores economias do mundo em 2010?#Brasil#Argentina#Reino Unido#China#3#a
+#Respectivamente quais sao os 5 maiores paises do mundo em territorios?#China, India, Estados Unidos, Indonesia e Brasil#Russia, Canada, China, Estados Unidos e Brasil#Estados Unidos, Russia, Canada, Brasil e China#Brasil, China, Estados Unidos, Canada e Russia#2#a
+#Todas as cidades listadas abaixo sao capitais de seus paises. Qual delas nao fica na Europa?#Paris#Berlim#Dublin#Beirute#4#a
+#Qual e o maior oceano da Terra?#Oceano Pacifico#Oceano Atlantico#Oceano Indico#Oceano Glacial Antartico#1#a
+#Com qual desses paises o Brasil NAO faz fronteira?#Venezuela#Equador#Bolivia#Colombia#2#a
+#Qual dessas duplas de paises e separada pelo maior fuso horario?#Chile e Japao#Africa do Sul e Nova Zelandia#Samaa e Taiti#Portugal e Coreia do Norte#1#a
+#Em que continente esta localizado o Catar?#Africa#Asia#Oceania#America do Norte#2#a
+#Qual estado mais populoso do Brasil?#Rio de Janeiro#Bahia#Distrito Federal#Sao Paulo#4#a
+#Qual destes pais da America do Sul nao e banhado por oceanos?#Brasil#Peru#Chile#Bolivia#4#a
+#Que pais da lista faz fronteira com Mato Grosso do Sul?#Paraguai#Chile#Argentina#Peru#1#a
+#Um pais que possui a temperatura media anual de 25 graus, apresentando pouca variacao. A umidade relativa do ar e bastante elevada: aproximadamente 90%. Atua nas regioes proximas a linha do Equador, na zona intertropical, essa caracteristicas sao de qual clima?#Subtropical#Equatorial#Tropical#Desertico#2#a
+#E a camada da atmosfera mais proxima da superficie terrestre, com uma altitude que varia entre 12 e 18 km. Nela se concentra cerca de 80% dos gases atmosfericos. Qual camada e essa?#Troposfera#Biosfera#Mesosfera#Estratosfera#1#a
+#Entre esses elementos a seguir, qual nao e um fenomeno atmosferico?#Variacao de temperatura#Formacao de neblinas#Derretimento de geleiras#Indice de umidade#3#a
+#O Brasil vem se tornando um pais que utiliza cada vez mais fontes renovaveis de energia, embora ainda haja uma necessidade de diversificar os tipos de producao existentes no pais. Os dois principais tipos de fontes de energia renovaveis utilizados pelo Brasil atualmente sao:#Eolica e hidreletrica#Nuclear e hidreletrica#Hidreletrica e biomassa#Solar e hidreletrica#3#a
+#A linha imaginaria considerada o marco 0 dos fusos horarios e:#Linha do Equador#Tropico de Capricornio#Meridiano de Greenwich#Tropico de Cancer#3#a
+#Qual desses paises nao fazer parte da America do sul?#Guiana#Argentina#Peru#Mexico#4#a
+#Qual estado nao pertence a regiao sudeste?#Sao Paulo#Rio de Janeiro#Espirito Santo#Parana#4#a
+#Qual estado nao pertence a regiao nordeste?#Ceara#Pernambuco#Minas Gerais#Rio Grande do Norte#3#a
+#Qual estado nao pertence a regiao Sul?#Parana#Sao Paulo#Rio Grande do Sul#Santa Catarina#2#a
+#Qual estado nao pertence a regiao Norte?#Amapa#Acre#Mato Grosso#Para#3#a
+#Qual a capital do estado do Acre?#Belem#Rio Branco#Campo Grande#Porto Velho#2#a
+#Qual rio mais extenso do mundo?#Rio Amazonas#Rio Yangtze#Rio Nilo# Rio Amarelo#1#a
+#Qual desses nao e ilha?#Indonesia#Barbaros#Bermudas#Libia#4#a
+#Quantos paises tem nas Americas?#40#37#44#52#2#a
+#Se voco pegar um barco na costa atlantica do Chile e navegar sempre em linha reta, chega aonde?#Africa do Sul#Nova Zelandia#Reino Unido#Chile#4#a
+#Quantos paises existem no mundo?#193#195#201#nda#4#a
+#Qual dessas linguas tem status de idioma oficial na America do Sul?#Holandes#Guarani#Libras#Todas#4#a
+#Qual a capital do cazaquistao?#Nursultan#Jacarta#Addis Adaba#Doha#1#a
+#Qual dos paises a seguir tem o maior numero de lagos?#Mexico#Brasil#China#Finlandia#4#a
+#Qual o maior continente, tanto em area como em populacao?#Asia#Europa#Americas#Africa#1#a
+#Qual dos paises a seguir tem como capital uma cidade como mesmo nome?#Nepal#Finlandia#Luxemburgo#Mocambique#3#a
+#Qual dos paises a seguir a Franca nao faz fronteira?#Alemanha#Belgica#Espanha#Portugal#4#a
+#O que significa extrativismo#Utilizar processos de escavacao para a coleta e estudo de fosseis#Processo que investiga a existencia de extraterrestres#Extrair da natureza produtos para fins comerciais ou industriais#Estudo dos grupo indigenas#3#a
+#Oslo e capital e maior cidade de qual pais?#Turquia#Russia#Noruega#Suecia#3#a
+#Qual a altura da famosa Torre Eiffel?#214m#270m#324m#253m#3#a

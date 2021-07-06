@@ -1,0 +1,43 @@
+C:\Users\RICK\source\repos\Entrega noel\bin\Debug\Entrega noel.exe.config
+C:\Users\RICK\source\repos\Entrega noel\bin\Debug\Entrega noel.exe
+C:\Users\RICK\source\repos\Entrega noel\bin\Debug\Entrega noel.pdb
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega noel.csprojAssemblyReference.cache
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega_noel.home_menu.resources
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega_noel.perguntas.resources
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega_noel.Properties.Resources.resources
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega_noel.select_pers.resources
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega_noel.tela_tabuleiro.resources
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega noel.csproj.GenerateResource.cache
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega noel.csproj.CoreCompileInputs.cache
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega noel.exe
+C:\Users\RICK\source\repos\Entrega noel\obj\Debug\Entrega noel.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega noel.csprojAssemblyReference.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.mini_game.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.home_menu.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.perguntas.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.Properties.Resources.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.select_pers.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.tela_tabuleiro.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega noel.csproj.GenerateResource.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega noel.csproj.CoreCompileInputs.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega noel.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega noel.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\bin\Debug\Entrega noel.exe.config
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\bin\Debug\Entrega noel.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\bin\Debug\Entrega noel.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\Entrega noel\obj\Debug\Entrega_noel.como_jogar.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\bin\Debug\Entrega noel.exe.config
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\bin\Debug\Entrega noel.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\bin\Debug\Entrega noel.pdb
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega noel.csproj.AssemblyReference.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.como_jogar.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.mini_game.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.home_menu.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.perguntas.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.Properties.Resources.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.select_pers.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega_noel.tela_tabuleiro.resources
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega noel.csproj.GenerateResource.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega noel.csproj.CoreCompileInputs.cache
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega noel.exe
+C:\Users\RICK\OneDrive - Etec Centro Paula Souza\Programas\2020\Entrega noel\obj\Debug\Entrega noel.pdb
